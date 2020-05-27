@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+##### ##### #####
+##### ##### #####
+##### ##### #####
+
+# Dark Sky API Key
+api_key.py
