@@ -134,3 +134,6 @@ dmypy.json
 
 # Dark Sky API Key
 api_key.py
+
+# Datasets
+/Datasets/*
