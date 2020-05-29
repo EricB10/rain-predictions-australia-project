@@ -132,6 +132,9 @@ dmypy.json
 ##### ##### #####
 ##### ##### #####
 
+# DS_Store config
+.DS_Store
+
 # Dark Sky API Key
 api_key.py
 
